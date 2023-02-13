@@ -1,5 +1,5 @@
 body {
-    background-color:rgb(245, 237, 13);
+    background-color: rgb(245, 237, 13);
     color: black;
     text-align: center;
 
@@ -52,13 +52,19 @@ ul {
 
 
 }
+
 .class9 {
     width: 4cm;
     height: 4cm;
 }
+
 .class10 {
     width: 6cm;
     height: 4cm;
+}
+
+.class11 {
+    font-size: large;
 }
 
 .icono1 {
